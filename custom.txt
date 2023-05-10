@@ -41,3 +41,7 @@
 0.0.0.0 weblb-wg.gslb.spotify.com
 0.0.0.0 www.googleadservices.com
 0.0.0.0 www.googletagservices.com
+
+0.0.0.0 video-akpcw-cdn-spotify-com.akamaized.net
+
+
