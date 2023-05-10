@@ -32,7 +32,6 @@
 0.0.0.0 redirector.gvt1.com
 0.0.0.0 s0.2mdn.net
 0.0.0.0 securepubads.g.doubleclick.ne
-0.0.0.0 spclient.wg.spotify.com
 0.0.0.0 sto3.spotify.com
 0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 upgrade.spotify.com
@@ -42,6 +41,7 @@
 0.0.0.0 www.googleadservices.com
 0.0.0.0 www.googletagservices.com
 
+# Spotify Video Ads
 0.0.0.0 video-akpcw-cdn-spotify-com.akamaized.net
-
+0.0.0.0 video-fa.scdn.co
 
