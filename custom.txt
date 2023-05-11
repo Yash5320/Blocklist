@@ -5,5 +5,19 @@
 # Chrome Password sync
 0.0.0.0 chromesyncpasswords-pa.googleapis.com
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Spotify image
-0.0.0.0 seed-mix-image.spotifycdn.com
+# 0.0.0.0 seed-mix-image.spotifycdn.com
