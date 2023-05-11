@@ -2,3 +2,8 @@
 0.0.0.0 video-akpcw-cdn-spotify-com.akamaized.net
 0.0.0.0 video-fa.scdn.co
 
+# Chrome Password sync
+0.0.0.0 chromesyncpasswords-pa.googleapis.com
+
+# Spotify image
+0.0.0.0 seed-mix-image.spotifycdn.com
